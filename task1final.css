@@ -1,0 +1,70 @@
+.snake{
+    width:8px;
+    height: 8px;
+    background-color:red;
+    position:absolute;
+    z-index:3;
+   
+}
+.grid{
+    width:200px;
+    height: 200px;
+    background-color: green;
+    position:absolute;
+    margin: 20% 30% 0 30%;
+   
+    
+}
+
+#time{
+    width:53px;
+    height:20px;
+    background-color: lime;
+    position:absolute;
+    top:81px;
+    right:5px;
+
+}
+
+
+#brown{
+    width:8px;
+    height:8px;
+    background-color: brown;
+    position:absolute;
+}
+#orange{
+    width:8px;
+    height:8px;
+    background-color: orange;
+    position:absolute;
+}
+#violet{
+    width:8px;
+    height:8px;
+    background-color:violet;
+    position:absolute;
+}
+#black{
+    width:8px;
+    height:8px;
+    background-color: black;
+    position:absolute;
+}
+#yellow{
+    width:8px;
+    height:8px;
+    background-color: yellow;
+    position:absolute;
+}
+#blue{
+    width:8px;
+    height:8px;
+    background-color: blue;
+    position:absolute;
+}
+#tt{
+    position:absolute;
+    top:20px;
+    right:10px;
+}
